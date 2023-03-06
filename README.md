@@ -1,3 +1,6 @@
+Thank you for this Assignment.
+It was fun working on it.
+
 The Program would work on both s3 as well as local mode.
 I have used Spark Core module just to write as close as Scala programming
 
