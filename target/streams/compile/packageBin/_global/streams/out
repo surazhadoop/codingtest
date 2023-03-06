@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/codingtest_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AWSClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/classes/AWSClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CodingMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/classes/CodingMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AWSClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/classes/AWSClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	word1.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/classes/word1.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/classes/SparkClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CodingMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/classes/CodingMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	word2.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/classes/word2.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/InterviewCodingTest/target/scala-2.13/classes/SparkClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
